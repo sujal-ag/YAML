@@ -1,4 +1,4 @@
-# 🧾 Learning YAML
+# Learning YAML
 
 This repository documents my learning journey of **YAML (Yet Another Markup Language)** - a human-friendly data serialization format often used in configuration files for tools like Docker, Kubernetes, and CI/CD pipelines.
 
