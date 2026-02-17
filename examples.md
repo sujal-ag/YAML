@@ -1,10 +1,10 @@
-# 🧾 Example YAML Files
+# Example YAML Files
 
 Here are some practical examples of real-world **YAML files** we can use to revise and understand different use cases.
 
 ---
 
-## 1. 🐳 Docker Compose Example
+## 1. Docker Compose Example
 
 ```yaml
 version: '3.8'
@@ -33,7 +33,7 @@ This file defines a simple Node.js + MongoDB setup.
 
 ---
 
-## 2. 🚀 GitHub Actions Workflow
+## 2. GitHub Actions Workflow
 
 ```yaml
 name: CI Pipeline
@@ -68,7 +68,7 @@ This defines a CI workflow that installs dependencies and runs tests on every pu
 
 ---
 
-## 3. ☸️ Kubernetes Deployment Example
+## 3. Kubernetes Deployment Example
 
 ```yaml
 apiVersion: apps/v1
@@ -96,7 +96,7 @@ This defines a deployment for a Node.js application with 2 replicas.
 
 ---
 
-## 4. 🧠 YAML with Anchors and Aliases
+## 4. YAML with Anchors and Aliases
 
 ```yaml
 defaults: &defaults
@@ -118,7 +118,7 @@ Here `user1` and `user2` reuse values from `defaults` using YAML anchors and ali
 
 ---
 
-## 5. 🌍 Environment Configuration Example
+## 5. Environment Configuration Example
 
 ```yaml
 development:
